@@ -1,0 +1,220 @@
+Uri: https://1wgxql.com/casino/play/1play_1play_mines?p=0a7e
+File Name: C:\Downloaded Web Sites\1wgxql.com\casino\play\1play_1play_mines.html
+Content Type: text/html
+
+Uri: https://1wgxql.com/core-js/3.33.3/minified.js
+File Name: C:\Downloaded Web Sites\1wgxql.com\core-js\3.33.3\minified.js
+Content Type: application/javascript
+
+Uri: https://1wgxql.com/fss/web-app-manifest
+File Name: C:\Downloaded Web Sites\1wgxql.com\fss\web-app-manifest
+Content Type: application/json
+
+Uri: https://1wgxql.com/img/icons/favicon-16x16-darkmode.png
+File Name: C:\Downloaded Web Sites\1wgxql.com\img\icons\favicon-16x16-darkmode.png
+Content Type: image/png
+
+Uri: https://1wgxql.com/img/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\1wgxql.com\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://1wgxql.com/img/icons/favicon-32x32-darkmode.png
+File Name: C:\Downloaded Web Sites\1wgxql.com\img\icons\favicon-32x32-darkmode.png
+Content Type: image/png
+
+Uri: https://1wgxql.com/img/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\1wgxql.com\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://1wgxql.com/img/icons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\1wgxql.com\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://1wgxql.com/img/logo/main/1win-normal.svg
+File Name: C:\Downloaded Web Sites\1wgxql.com\img\logo\main\1win-normal.svg
+Content Type: image/svg+xml
+
+Uri: https://v1.bundlecdn.com/
+File Name: C:\Downloaded Web Sites\1wgxql.com\index.htm
+Content Type: 
+
+Uri: https://v1.bundlecdn.com/css/chunk-common.5a9d07c78.css
+File Name: C:\Downloaded Web Sites\1wgxql.com\css\chunk-common.5a9d07c78.css
+Content Type: text/css
+
+Uri: https://v1.bundlecdn.com/css/index.e36644051.css
+File Name: C:\Downloaded Web Sites\1wgxql.com\css\index.e36644051.css
+Content Type: text/css
+
+Uri: https://v1.bundlecdn.com/font/inter-cyrillic-400.78ade338f.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-cyrillic-400.78ade338f.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-cyrillic-600.71f4f056b.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-cyrillic-600.71f4f056b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-cyrillic-ext-400.1bb06009a.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-cyrillic-ext-400.1bb06009a.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-cyrillic-ext-600.73521d1a5.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-cyrillic-ext-600.73521d1a5.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-greek-400.dfca09a36.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-greek-400.dfca09a36.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-greek-600.5e7ca72f8.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-greek-600.5e7ca72f8.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-greek-ext-400.9de51e3e3.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-greek-ext-400.9de51e3e3.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-greek-ext-600.e7befa217.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-greek-ext-600.e7befa217.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-latin-400.e9473bbc2.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-latin-400.e9473bbc2.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-latin-600.3787adb34.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-latin-600.3787adb34.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-latin-ext-400.8b01e2911.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-latin-ext-400.8b01e2911.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-latin-ext-600.5f980905b.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-latin-ext-600.5f980905b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-vietnamese-400.603a4a606.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-vietnamese-400.603a4a606.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/inter-vietnamese-600.a7c0afffd.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\inter-vietnamese-600.a7c0afffd.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/poppins-devanagari-400.74bc8f98c.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\poppins-devanagari-400.74bc8f98c.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/poppins-devanagari-600.00facf998.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\poppins-devanagari-600.00facf998.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-cyrillic-ext.229598f72.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-cyrillic-ext.229598f72.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-cyrillic.002ad0b78.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-cyrillic.002ad0b78.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-greek-ext.73c7ebb7b.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-greek-ext.73c7ebb7b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-greek.73c7ebb7b.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-greek.73c7ebb7b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-latin-ext.1054180f7.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-latin-ext.1054180f7.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-latin.6b82a4379.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-latin.6b82a4379.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/Rocketfont-vietnamese.73c7ebb7b.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\Rocketfont-vietnamese.73c7ebb7b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFMono-Bold-numbers-currencies.8c9c287d8.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFMono-Bold-numbers-currencies.8c9c287d8.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFMono-Heavy-numbers-currencies.a86f2ba4d.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFMono-Heavy-numbers-currencies.a86f2ba4d.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFMono-Regular-numbers-currencies.36835e252.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFMono-Regular-numbers-currencies.36835e252.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-cyrillic-ext.b8632914f.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-cyrillic-ext.b8632914f.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-cyrillic.e423f3776.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-cyrillic.e423f3776.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-greek-ext.4dd0f750e.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-greek-ext.4dd0f750e.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-greek.89b5d1a14.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-greek.89b5d1a14.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-latin-ext.4308fef7f.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-latin-ext.4308fef7f.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-latin.50a4eaff3.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-latin.50a4eaff3.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSDisplay-vietnamese.4156e587b.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSDisplay-vietnamese.4156e587b.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-cyrillic-ext.3d07ed4e1.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-cyrillic-ext.3d07ed4e1.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-cyrillic.211c5c35c.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-cyrillic.211c5c35c.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-greek-ext.9562d6f08.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-greek-ext.9562d6f08.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-greek.aa40936e2.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-greek.aa40936e2.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-latin-ext.7b2e9f978.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-latin-ext.7b2e9f978.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-latin.f09aa5229.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-latin.f09aa5229.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/font/SFNSText-vietnamese.3b28f626c.woff2
+File Name: C:\Downloaded Web Sites\1wgxql.com\font\SFNSText-vietnamese.3b28f626c.woff2
+Content Type: application/octet-stream
+
+Uri: https://v1.bundlecdn.com/js/chunk-common.8638c6700.js
+File Name: C:\Downloaded Web Sites\1wgxql.com\js\chunk-common.8638c6700.js
+Content Type: application/javascript
+
+Uri: https://v1.bundlecdn.com/js/chunk-vendors.e58dd703a.js
+File Name: C:\Downloaded Web Sites\1wgxql.com\js\chunk-vendors.e58dd703a.js
+Content Type: application/javascript
+
+Uri: https://v1.bundlecdn.com/js/index.7be27992a.js
+File Name: C:\Downloaded Web Sites\1wgxql.com\js\index.7be27992a.js
+Content Type: application/javascript
+
